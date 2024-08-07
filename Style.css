@@ -1,0 +1,183 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-top{
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+  height: 2rem;
+  width: 100%;
+  color: #fff;
+  justify-content: space-around;
+}
+
+
+#header-main{
+background-color: #403E4A;
+}
+
+.college-name{
+  color: darkblue;
+  line-height: 3rem;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+
+.login-sys button{
+  margin-top: 1rem;
+}
+
+
+.text-danger{
+  font-weight: 700;
+}
+
+#home{
+  margin-left: 1rem;
+}
+
+nav{
+  background-color: #2f2626;
+}
+#anchor{
+  color: #fff;
+}
+
+#anchor:hover{
+  color: yellow;
+  text-decoration: underline;
+}
+
+
+
+#container-fluid{
+  background-color: #f1f1f1;
+}
+
+.card{
+  margin-top: 1rem;
+}
+
+.card-header{
+  background-color: darkblue;
+  color: #fff;
+}
+
+#Branch{
+  color: darkblue;
+  line-height: 2.3rem;
+  font-weight: 700;
+  margin-top: 3rem;
+}
+
+#footer{
+  margin-top: 4rem;
+  background-color: #2f2626;
+  color: #fff;
+}
+
+#li{
+  background-color: #2f2626;
+  color: #fff;
+  border: none;
+}
+
+#card1{
+  border: none;
+}
+
+#card-header-1{
+  font-weight: 700;
+  color: yellow;
+  background-color: #2f2626;
+}
+
+#card-body{
+  background-color: #2f2626;
+  border: none;
+}
+
+#branch-name{
+  font-weight: 700;
+  color: darkblue;
+}
+
+#student-services{
+  font-weight: 700;
+}
+
+a{
+  text-decoration: none;
+}
+
+#aicte{
+  color: royalblue;
+  font-weight: 600;
+}
+
+#logo-card-1{
+  margin-top: 5rem;
+  background-color: #f1f1f1;
+}
+
+#cards-logo{
+  margin-top: 3rem;
+}
+
+#text{
+  background-color: #f1f1f1;
+  
+}
+
+.footer p{
+  color: darkblue;
+  font-weight: 700;
+}
+
+span{
+  font-weight: 700;
+}
+
+.span{
+  color: yellow;
+}
+
+.college-about{
+  background-color: darkblue;
+  border-radius: 0.3rem;
+}
+
+.college-about h3{
+  margin-left: 1rem;
+  color: #f1f1f1;
+  font-weight: 500;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
+
+#Importent{
+  font-weight: 700;
+  color: #fff; 
+  padding: 0.5rem; 
+  background-color: darkblue;
+}
+
+/* careerlink */
+.heading{
+  color: darkblue;
+  font-weight: 400;
+}
+
+/* course */
+
+.paragraph{
+  margin-top: 1rem;
+  color: #E36C06;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+
